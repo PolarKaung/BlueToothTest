@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlueToothTest</string>
+    <string name="bluetooth_not_supported">Bluetooth is not Supported!!</string>
+</resources>
